@@ -2,7 +2,7 @@
 
 ## Tech Stack Used
 
-Frontend: React with TypeScript for a type-safe, component-based architecture, Formik and Yup for form handling and validation, and React Router for navigation. Basic CSS was used for styling.
+Frontend: React with TypeScript for a type-safe, component-based architecture, Formik and Yup for form handling and validation, and React Router for navigation. Basic CSS and Tailwind css was used for styling.
 
 Utilities: LocalStorage for storing user preferences (e.g., "Remember Me"), and a custom password strength calculator to enhance UX.
 
